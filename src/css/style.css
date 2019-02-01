@@ -1,0 +1,10 @@
+html, body{
+    all: initial;
+    margin: 0px; padding: 0px;
+    box-sizing: border-box; 
+    font-family: sans-serif;
+    overflow: hidden;
+}
+body *, body *:before, body *:after { 
+    box-sizing: inherit; 
+}
